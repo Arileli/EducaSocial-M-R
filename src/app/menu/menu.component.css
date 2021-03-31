@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+.fonte{
+
+    font-family: 'Anton', sans-serif;
+}
+
+.ff{
+    font-family: A;
+}
+
+
+.ml-auto{
+    right: 0px;
+    
+
+}
+
+
+
+ul.br {
+    list-style: none;
+  
+
+}
+
+
+ul.br li{
+    display: inline;
+    padding: 30px;
+    font-size: 18px;
+   
+   
+
+}
+
+ul.br li a {
+    color: black;
+    
+}
+
+
+
+
+
+h3{
+    color: #054f77;
+    font-size: 40px;
+}
+
+.border-bc{
+    
+    border-color:#054f77  ;
+}
+
+
+
+/* Barra de pesquisa*/
+.pesquisa{
+    width: 500px;
+    height: 30px;
+    margin: 10px auto;
+    
+}
+
+#texto{
+    width: 150px;
+    height: 30px;
+    float: left;
+    font-family: Arial;
+    font-size: 15px;
+}
+.fa{
+    width: 10px;
+    height: 30px;
+    cursor: pointer;
+  
+
+}
+
+#texto:focus{
+    border: solid 2px #054f77  ;
+}
